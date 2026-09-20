@@ -1,0 +1,11 @@
+*.exe
+*.o
+*.obj
+*.out
+*.cbp
+*.layout
+*.depend
+bin/
+obj/
+.vscode/
+.idea/
